@@ -1,0 +1,5 @@
+#Lambda Function Project Metadata
+#Sat Feb 18 02:53:14 EST 2017
+lastDeploymentFunctionName=PapayaTest
+lastDeploymentBucketName=papaya-lambda
+lastDeploymentEndpoint=https\://lambda.us-west-2.amazonaws.com/
